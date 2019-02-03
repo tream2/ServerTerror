@@ -1,0 +1,5 @@
+﻿name: ServerTerror
+author: tream
+main: tream\ServerTerror
+api: [4.0.0]
+version: 1
